@@ -86,6 +86,8 @@
     "schematicannon_fix.SchematicPrinterMixin",
     "silence_jei.ItemStackListFactoryMixin",
     "spring_item_bounce.EntityMixin",
+    "teleport.EntityMixin",
+    "teleport.ServerGamePacketListenerImplMixin",
     "tooltip_flag.TooltipFlagDefaultMixin",
     "torsion_spring.ComparatorBlockMixin",
     "torsion_spring.MechanicalBearingBlockEntityMixin",
